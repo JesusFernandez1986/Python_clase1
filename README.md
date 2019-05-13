@@ -1,1 +1,1 @@
-"# Python_clase1" 
+first python practice with if/else
