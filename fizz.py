@@ -1,5 +1,5 @@
 print("Hi, welcome to my game")
-numero = input("Enter a number between 1 and 100")
+numero = input("Enter a number between 1 and 100: ")
 numero = int(numero)
 tres = 0
 cinco = 0
@@ -15,5 +15,5 @@ for x in range(100-numero):
         print("fizz")
     else:
         print(numero)
-    numero = numero+1
+    numero+=1
 
